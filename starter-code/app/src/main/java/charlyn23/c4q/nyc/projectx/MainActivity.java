@@ -38,7 +38,10 @@ import charlyn23.c4q.nyc.projectx.map.PagerAdapter;
 import charlyn23.c4q.nyc.projectx.map.ProjectXMapFragment;
 import charlyn23.c4q.nyc.projectx.shames.ShameDetailActivity;
 import charlyn23.c4q.nyc.projectx.stats.StatsFragment;
-
+//I HAD TO USE A TABLET FROM FRONTLINE SO I DON'T HAVE THE ADMIN PASSWORD TO GET INTO THE PLAYSTORE
+//AND SEE WHAT'S WRONG THE APP. ALSO THE SOURCCODE FOR THE LAB ALREADY SEEMS TO HAVE ACCESSIBILITY
+// ADDED THROUGH CONTENTDESCRIPTIONS. SO I JUST CLICKED AROUND AND TESTED OUT ALL THE FEATURES FOR
+//ACCESSIBILITY, AND IT ALL SEEMED TO WORK.
 
 public class MainActivity extends AppCompatActivity implements ProjectXMapFragment.OnDataPass, GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener {
 
